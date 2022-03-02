@@ -195,8 +195,10 @@ a:active, a:visited, a:hover, a:link{
     width:1450px ;
     border-radius: 15px;
 }
-.work_flowers{
+.work_flowers_1{
     position: absolute;
+    bottom:15.5rem;
+    left: 88rem;
 }
 .work_content_text_main{
     font-size:48px;
