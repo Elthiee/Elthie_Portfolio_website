@@ -1,3 +1,14 @@
+.ALERT{
+    background-color: red;
+    height:5rem;
+    text-align: center;
+    color: White;
+}
+#alert{
+    position: relative;
+    top:1.25rem;
+    font-weight: bold;
+}
 root{
     --font_color_sub: #70645C ;
     --font_color_main: #C36C3D ;
