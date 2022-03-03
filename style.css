@@ -4,9 +4,9 @@
     text-align: center;
     color: White;
 }
-#alert{
+#alert {
     position: relative;
-    top:1.25rem;
+    top: 1.25rem;
     font-weight: bold;
 }
 root{
@@ -336,4 +336,34 @@ a:active, a:visited, a:hover, a:link{
     text-align: left;
     font-family: 'Eczar', serif;
     font-size: 24px;
+}
+.prices_content{
+    display: block;
+    height: 40rem;
+    background-color: #FBE1CF;
+    border-bottom: 1px solid #70645C;
+}
+.prices_content_box{
+    position: relative;
+    left: 2rem;
+    background-color:#FFF6EF;
+    height: 450px ;
+    width:1450px ;
+    border-radius: 15px;
+}
+.contact_content_text_sub{
+    color: #70645C;
+    font-weight: normal;
+    text-align: left;
+    font-family: 'Eczar', serif;
+    font-size: 24px;
+    position: relative;
+    left:7rem;
+    bottom: 2rem;
+}
+#cat_info{
+    text-align: center;
+    font-size: 16px;
+    color: #70645C;
+    opacity: 30%;
 }
